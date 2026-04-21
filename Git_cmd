@@ -3,11 +3,9 @@
 ### 📥 1. Cloner le projet
 # Pour les étudiants CP (classes préparatoires)
 git clone -b CP https://github.com/votre-username/studyai.git
-cd studyai
 
 # Pour les étudiants CI (cycle ingénieur)
 git clone -b CI https://github.com/votre-username/studyai.git
-cd studyai
 
 ### 🌿 2. Créer votre branche de travail
 # Créer et basculer sur une nouvelle branche
