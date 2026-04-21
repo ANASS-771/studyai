@@ -2,10 +2,10 @@
 
 ### 📥 1. Cloner le projet
 # Pour les étudiants CP (classes préparatoires)
-git clone -b CP https://github.com/votre-username/studyai.git
+git clone -b CP https://github.com/kikjabouza/Atelier_EIC_22_04_2026.git
 
 # Pour les étudiants CI (cycle ingénieur)
-git clone -b CI https://github.com/votre-username/studyai.git
+git clone -b CI https://github.com/kikjabouza/Atelier_EIC_22_04_2026.git
 
 ### 🌿 2. Créer votre branche de travail
 # Créer et basculer sur une nouvelle branche
